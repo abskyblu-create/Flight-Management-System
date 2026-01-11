@@ -1,5 +1,11 @@
 # ✈️ Flight and Passenger Management System - Prototype
 
+Youtube link:
+https://youtu.be/Rtf1hmd8i14?si=ZKpjxnJ9YjGPEtBR
+
+Presented by Ankit and Abhinand 
+ESILV, Paris
+
 ## Overview
 
 This is a **fully functional prototype** of a Flight and Passenger Management System built with Node.js/Express backend and HTML/JavaScript frontend. It demonstrates the core architecture and workflows described in the Software Design Document.
